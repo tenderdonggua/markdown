@@ -109,9 +109,9 @@ URL即图片的url地址，如果引用本仓库中的图片，直接使用相�
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")|
 |2|`![][flower]`|![][flower]|
 
-    [flower]:https://github.com/tenderdonggua/markdown/blob/master/flower.JPG
+    [flower]:https://github.com/tenderdonggua/markdown/blob/master/flower.jpeg
 
-[flower]:https://github.com/tenderdonggua/markdown/blob/master/flower.JPG
+[flower]:https://github.com/tenderdonggua/markdown/blob/master/flower.jpeg
 
 
 
