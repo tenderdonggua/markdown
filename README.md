@@ -111,8 +111,44 @@ URL即图片的url地址，如果引用本仓库中的图片，直接使用相�
 
     [flower]:https://github.com/tenderdonggua/markdown/blob/master/flower.jpeg
 
-[flower]:https://github.com/tenderdonggua/markdown/blob/master/flower.jpeg
 
+
+# 链接
+### 链接外部URL
+|#|语法|效果|
+|---|---|---|
+|1|`[我的博客](https://www.zhihu.com/people/chen-nan-qiu-dong/activities)`|[我的博客](https://www.zhihu.com/people/chen-nan-qiu-dong/activities)|
+|2|`[我的知乎][zhihu]`|[我的知乎][zhihu]|
+### 链接本仓库的URL
+|语法|效果|
+|---|---|
+|`[我的简介](/me.md)`|[我的简介](/me.md)|
+|`[我的简介](./me.md)`|[我的简介](./me.md)|
+
+# 图片链接
+给图片加链接的本质是混合图片显示语法和普通的链接语法。普通的链接中[ ]内部是链接要显示的文本，而图片链接[ ]里面则是要显示的图片。      
+直接混合两种语法当然可以，但是十分啰嗦，为此我们可以使用URL标识符的形式。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[flower]:https://github.com/tenderdonggua/markdown/blob/master/flower.jpeg
+[zhihu]:https://www.zhihu.com/people/chen-nan-qiu-dong/activities
 
 
 
